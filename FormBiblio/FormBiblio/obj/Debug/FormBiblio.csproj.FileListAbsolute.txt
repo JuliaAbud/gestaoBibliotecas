@@ -1,0 +1,170 @@
+C:\Temp\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Temp\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Temp\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Temp\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojResolveAssemblyReference.cache
+C:\Temp\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Temp\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Temp\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.Cache
+C:\Temp\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Temp\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+C:\Temp\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Temp\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojAssemblyReference.cache
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.cache
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.CoreCompileInputs.cache
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Users\hudso\Downloads\Desktop\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojAssemblyReference.cache
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.cache
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.CoreCompileInputs.cache
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Users\jujua\Desktop\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojResolveAssemblyReference.cache
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\1018998\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.Cache
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojResolveAssemblyReference.cache
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\1166671\Downloads\Form_Biblio (2)\Form_Biblio\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.Cache
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojAssemblyReference.cache
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.cache
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.CoreCompileInputs.cache
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Users\jujua\Desktop\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Users\felip\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.Cache
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojAssemblyReference.cache
+E:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.CoreCompileInputs.cache
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojAssemblyReference.cache
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.cache
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.CoreCompileInputs.cache
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+D:\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.CoreCompileInputs.cache
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojResolveAssemblyReference.cache
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.Cache
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+C:\Users\1018998\Downloads\Form_Biblio_ultimaversao (2)\Form_Biblio_ultimaversao\Form_Biblio_ultimaversao\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
+D:\TIPOO_Final\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe.config
+D:\TIPOO_Final\FormBiblio\FormBiblio\bin\Debug\FormBiblio.exe
+D:\TIPOO_Final\FormBiblio\FormBiblio\bin\Debug\FormBiblio.pdb
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csprojAssemblyReference.cache
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.AdmVisao.resources
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Entrada.resources
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoLivro.resources
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.NovoUsuario.resources
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Perfil.resources
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.Properties.Resources.resources
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.UserVisao.resources
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.GenerateResource.cache
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.csproj.CoreCompileInputs.cache
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.exe
+D:\TIPOO_Final\FormBiblio\FormBiblio\obj\Debug\FormBiblio.pdb
